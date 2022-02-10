@@ -1,0 +1,6 @@
+D:\\Programming\\Soundboard\\src\\ohpickme.wav
+D:\\Programming\\Soundboard\\src\\annoy.wav
+D:\\Programming\\Soundboard\\src\\boy.wav
+D:\\Programming\\Soundboard\\src\\following.wav
+D:\\Programming\\Soundboard\\src\\ginger.wav
+D:\\Programming\\Soundboard\\src\\honest.wav
